@@ -5,6 +5,7 @@
 *.shader text
 
 *.mat merge=unityyamlmerge eol=lf
+*.anim merge=unityyamlmerge eol=lf
 *.unity merge=unityyamlmerge eol=lf
 *.prefab merge=unityyamlmerge eol=lf
 *.physicsMaterial2D merge=unityyamlmerge eol=lf
